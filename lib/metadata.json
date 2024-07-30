@@ -1,0 +1,1536 @@
+{
+  "vaultName": "Cogent_Artifice",
+  "lastExport": 1722334875588,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Artefakte.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Begleiter.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Fluchbeispiele.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Konstrukte.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Relative_Größen.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Riten.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Runen.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Verletzungen.md",
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Wildwandler.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/_Zusammenfassung.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Artefakte.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Begleiter.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Konstruktbau.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Mentale_Belastung_und_Flüche.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Ritusweben.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Runenschmieden.md",
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Wildwandel.md",
+    "_Regelwerk/Cogent_Artifice/Character_Sheet.md",
+    "_Regelwerk/Cogent_Artifice/Cheat_Sheets.md",
+    "_Regelwerk/Cogent_Artifice/Weitere_neue_Systeme.md",
+    "_Regelwerk/Cogent_.md",
+    "_Regelwerk/Kerngrundlage.md",
+    "_Welt/_Cheatsheets/Ambulia.md",
+    "_Welt/_Cheatsheets/Folia.md",
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Decemora.md",
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Furropallidus.md",
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Straußenähnlicher_Vogel.md",
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Crassina.md",
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Cutivex.md",
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Siccalbum.md",
+    "_Welt/Biome/Mediterrane_Regionen/Pilea/Malaurm.md",
+    "_Welt/Biome/Mediterrane_Regionen/Mediterrane_Regionen.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Anglerfish.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Ente_mit_Pelikanschnabel.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Inumbra.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Korallenriff.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Plumacortex.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Seetang.md",
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ozeane_&_Marine_Küsten.md",
+    "_Welt/Biome/Polarregionen/Ambulia/Leonix.md",
+    "_Welt/Biome/Polarregionen/Ambulia/Pinguin.md",
+    "_Welt/Biome/Polarregionen/Folia/Stralux.md",
+    "_Welt/Biome/Polarregionen/Pilea/Straestus.md",
+    "_Welt/Biome/Polarregionen/Polarregionen.md",
+    "_Welt/Biome/Savanne/Ambulia/Callidus.md",
+    "_Welt/Biome/Savanne/Ambulia/Cerelicursa.md",
+    "_Welt/Biome/Savanne/Ambulia/Impés.md",
+    "_Welt/Biome/Savanne/Ambulia/Perilux.md",
+    "_Welt/Biome/Savanne/Ambulia/Saltus.md",
+    "_Welt/Biome/Savanne/Folia/Miraculum.md",
+    "_Welt/Biome/Savanne/Folia/Vell_Gras.md",
+    "_Welt/Biome/Savanne/Savanne.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.png",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Chromadra.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Confractossis.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Krähe,_Elster,_Rabe.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Terrasiccaris.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Folia/Multa_Gras.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Folia/Wasserrosen.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Pilea/Fulmeneques.md",
+    "_Welt/Biome/Subtropen & Sumpfländereien/Subtropen_&_Sumpfländereien.md",
+    "_Welt/Biome/Taiga/Ambulia/Velatrox.md",
+    "_Welt/Biome/Taiga/Folia/Gelorium.md",
+    "_Welt/Biome/Taiga/Taiga.md",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Magnamaw.png",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Magnamaw.md",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Noctululare.png",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Noctululare.md",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Nota.png",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Nota.md",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Striatudentis.png",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Striatudentis.md",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Visec.png",
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Visec.md",
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Appearange.md",
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Appearange.png",
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Ignistella.png",
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Ignistella.md",
+    "_Welt/Biome/Tropischer_Regenwald/Pilea/Mortovello.md",
+    "_Welt/Biome/Tropischer_Regenwald/Tropischer_Regenwald.md",
+    "_Welt/Biome/Wüste/Ambulia/Respirafinalis.md",
+    "_Welt/Biome/Wüste/Ambulia/Rolli.md",
+    "_Welt/Biome/Wüste/Folia/Salrubus.md",
+    "_Welt/Biome/Wüste/Folia/Ultimus.md",
+    "_Welt/Biome/Wüste/Wüste.md",
+    "_Welt/Global_Information/Entdeckung_von_Chimerit.md",
+    "_Welt/Global_Information/Erster_Kontakt_mit_magischen_Pflanzen.md",
+    "_Welt/Global_Information/Havens_tektonischer_Aufbau.md",
+    "_Welt/Global_Information/Zeitachse.md",
+    "_Welt/Global_Information/Zentrales_Direktorat.md",
+    "_Welt/Haven_Globus/Haeven_Biomes.png",
+    "_Welt/Haven_Globus/Haven V0 - blank.wonderdraft_map",
+    "_Welt/Haven_Globus/Haven V1 - Biome frei Schnauze.wonderdraft_map",
+    "_Welt/Haven_Globus/Haven V2 - Biome Schritt für Schnitt.wonderdraft_map",
+    "_Welt/Haven_Globus/Haven V3 - stumm.wonderdraft_map",
+    "_Welt/Haven_Globus/Haven V4 - beschriftet.wonderdraft_map",
+    "_Welt/Haven_Globus/Haven V4 [en].wonderdraft_map",
+    "_Welt/Haven_Globus/Haven_beschriftet.png",
+    "_Welt/Haven_Globus/Haven_stumm.png",
+    "_Welt/Haven_Globus/Tectonic Map V0.jpg~",
+    "_Welt/Haven_Globus/Tectonic Map V0.kra",
+    "_Welt/Haven_Globus/Tectonic Map V0.kra~",
+    "_Welt/Haven_Globus/Tectonic Map V1.kra",
+    "_Welt/Haven_Globus/Tectonic Map V1.kra~",
+    "_Welt/Haven_Globus/Tektonische_Karte_V0.png",
+    "_Welt/Haven_Globus/Tektonische_Karte_V1.png",
+    "_Welt/Territorien/Dalris/POI/Arcademia_Belmore.md",
+    "_Welt/Territorien/Dalris/POI/Criwether_Bergkessel.md",
+    "_Welt/Territorien/Dalris/POI/Shaeras.md",
+    "_Welt/Territorien/Dalris/POI/Zentrales_Direktorat.md",
+    "_Welt/Territorien/Dalris/Dalris.md",
+    "_Welt/Territorien/Egen/POI/Arcademia_Merarth.md",
+    "_Welt/Territorien/Egen/POI/Egen_(Hauptstadt).md",
+    "_Welt/Territorien/Egen/POI/Fastigaspina.md",
+    "_Welt/Territorien/Egen/POI/Zentrales_Direktorat.md",
+    "_Welt/Territorien/Egen/Egenythe_Domäne.md",
+    "_Welt/Territorien/Gromorea/POI/Arcademia_Fleagwarth.md",
+    "_Welt/Territorien/Gromorea/POI/Inadell.md",
+    "_Welt/Territorien/Gromorea/POI/Itumesa.md",
+    "_Welt/Territorien/Gromorea/POI/Thurnfrost.md",
+    "_Welt/Territorien/Gromorea/POI/Zentrales_Direktorat.md",
+    "_Welt/Territorien/Gromorea/POI/Zwillingsspitze.md",
+    "_Welt/Territorien/Gromorea/Gromorea.md",
+    "_Welt/Territorien/Kajiatare/POI/Amniris.md",
+    "_Welt/Territorien/Kajiatare/Kajiatare.md",
+    "_Welt/Territorien/Masurin/POI/Arcademia_Slessany.md",
+    "_Welt/Territorien/Masurin/POI/Fastigaspina.md",
+    "_Welt/Territorien/Masurin/POI/Yuntis.md",
+    "_Welt/Territorien/Masurin/POI/Zentrales_Direktorat.md",
+    "_Welt/Territorien/Masurin/Masurin.md",
+    "_Welt/Territorien/Thaetia/POI/Arcademia_Armenárde.md",
+    "_Welt/Territorien/Thaetia/POI/Pluvimesa_(ost).md",
+    "_Welt/Territorien/Thaetia/POI/Pluvimesa_(west).md",
+    "_Welt/Territorien/Thaetia/POI/Profusteri.md",
+    "_Welt/Territorien/Thaetia/POI/Quinnboc.md",
+    "_Welt/Territorien/Thaetia/POI/Xephis.md",
+    "_Welt/Territorien/Thaetia/POI/Yarborgsee.md",
+    "_Welt/Territorien/Thaetia/POI/Zentrales_Direktorat.md",
+    "_Welt/Territorien/Thaetia/Thaetia.md",
+    "_Welt/Territorien/Thaetia/Thaetianische_Erzählung_über_die_Entstehung_der_Welt.md",
+    "_Welt/Territorien/Thaetia/Traditionelle_Theologie.canvas",
+    "_Welt/Der_Planet_Haven.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Orte/0._Arcademia_Armenárde.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Sessions/0.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Sessions/1.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Transiente_Charaktere/Vulpor_'Don'_Gwolum.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Orte.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Persistente_Charaktere.md",
+    "Abenteuer/Der_Putsch_in_Quinnboc/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/0._Das_Anwesen/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/1._Antikas_-_Dalris/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/2._Folia_Galoria_-_Kajiatare/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/3._Avisbay_-_Inadell/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/4._Frostwüste_-_Egen/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/5._Feuersturm_-_Thurnfrost/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Orte/6._Voidstar_-_Mazurine_Marine/Zusammenfassung.md",
+    "Abenteuer/Mr_Armenárde/Personen/Transiente_Charaktere/Ghyro_PC.md",
+    "Abenteuer/Mr_Armenárde/Ideen.md",
+    "Abenteuer/Mr_Armenárde/Zusammenfassung.md",
+    "README.md",
+    "lib/media/haeven_biomes.png",
+    "lib/media/haven_stumm.png",
+    "lib/media/haven_beschriftet.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Artefakte.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 7803,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/artefakte.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Begleiter.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 4305,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/begleiter.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Fluchbeispiele.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2735,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/fluchbeispiele.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Konstrukte.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 844,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/konstrukte.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Relative_Größen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 877,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/relative_größen.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Riten.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3680,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/riten.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Runen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 4423,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/runen.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Verletzungen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 879,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/verletzungen.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/_Cheat_Sheets/Wildwandler.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 7839,
+      "exportedPath": "_regelwerk/cogent_artifice/_cheat_sheets/wildwandler.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/_Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 5605,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/_zusammenfassung.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Artefakte.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1378,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/artefakte.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Begleiter.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 36639,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/begleiter.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Konstruktbau.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1745,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/konstruktbau.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Mentale_Belastung_und_Flüche.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2199,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/mentale_belastung_und_flüche.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Ritusweben.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2841,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/ritusweben.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Runenschmieden.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 4218,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/runenschmieden.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Magiesystem/Wildwandel.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 6969,
+      "exportedPath": "_regelwerk/cogent_artifice/magiesystem/wildwandel.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Character_Sheet.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 13757,
+      "exportedPath": "_regelwerk/cogent_artifice/character_sheet.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Cheat_Sheets.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2473,
+      "exportedPath": "_regelwerk/cogent_artifice/cheat_sheets.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_Artifice/Weitere_neue_Systeme.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 13141,
+      "exportedPath": "_regelwerk/cogent_artifice/weitere_neue_systeme.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Cogent_.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_regelwerk/cogent_.html",
+      "dependencies": []
+    },
+    "_Regelwerk/Kerngrundlage.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 5811,
+      "exportedPath": "_regelwerk/kerngrundlage.html",
+      "dependencies": []
+    },
+    "_Welt/_Cheatsheets/Ambulia.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2046,
+      "exportedPath": "_welt/_cheatsheets/ambulia.html",
+      "dependencies": []
+    },
+    "_Welt/_Cheatsheets/Folia.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1344,
+      "exportedPath": "_welt/_cheatsheets/folia.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Decemora.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 116,
+      "exportedPath": "_welt/biome/mediterrane_regionen/ambulia/decemora.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Furropallidus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2964,
+      "exportedPath": "_welt/biome/mediterrane_regionen/ambulia/furropallidus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Ambulia/Straußenähnlicher_Vogel.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 341,
+      "exportedPath": "_welt/biome/mediterrane_regionen/ambulia/straußenähnlicher_vogel.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Crassina.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/mediterrane_regionen/folia/crassina.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Cutivex.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2508,
+      "exportedPath": "_welt/biome/mediterrane_regionen/folia/cutivex.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Folia/Siccalbum.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 71,
+      "exportedPath": "_welt/biome/mediterrane_regionen/folia/siccalbum.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Pilea/Malaurm.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 71,
+      "exportedPath": "_welt/biome/mediterrane_regionen/pilea/malaurm.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Mediterrane_Regionen/Mediterrane_Regionen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 373,
+      "exportedPath": "_welt/biome/mediterrane_regionen/mediterrane_regionen.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Anglerfish.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 420,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/ambulia/anglerfish.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Ente_mit_Pelikanschnabel.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 378,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/ambulia/ente_mit_pelikanschnabel.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ambulia/Inumbra.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 417,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/ambulia/inumbra.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Korallenriff.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 11,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/folia/korallenriff.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Plumacortex.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 81,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/folia/plumacortex.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Folia/Seetang.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 11,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/folia/seetang.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Ozeane_&_Marine_Küsten/Ozeane_&_Marine_Küsten.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 273,
+      "exportedPath": "_welt/biome/ozeane_&_marine_küsten/ozeane_&_marine_küsten.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Polarregionen/Ambulia/Leonix.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 309,
+      "exportedPath": "_welt/biome/polarregionen/ambulia/leonix.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Polarregionen/Ambulia/Pinguin.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 330,
+      "exportedPath": "_welt/biome/polarregionen/ambulia/pinguin.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Polarregionen/Folia/Stralux.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/polarregionen/folia/stralux.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Polarregionen/Pilea/Straestus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/polarregionen/pilea/straestus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Polarregionen/Polarregionen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 470,
+      "exportedPath": "_welt/biome/polarregionen/polarregionen.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Savanne/Ambulia/Callidus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2942,
+      "exportedPath": "_welt/biome/savanne/ambulia/callidus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Ambulia/Cerelicursa.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3392,
+      "exportedPath": "_welt/biome/savanne/ambulia/cerelicursa.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Ambulia/Impés.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3084,
+      "exportedPath": "_welt/biome/savanne/ambulia/impés.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Ambulia/Perilux.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2531,
+      "exportedPath": "_welt/biome/savanne/ambulia/perilux.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Ambulia/Saltus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2211,
+      "exportedPath": "_welt/biome/savanne/ambulia/saltus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Folia/Miraculum.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1714,
+      "exportedPath": "_welt/biome/savanne/folia/miraculum.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Folia/Vell_Gras.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1783,
+      "exportedPath": "_welt/biome/savanne/folia/vell_gras.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Savanne/Savanne.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 979,
+      "exportedPath": "_welt/biome/savanne/savanne.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 235050,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Accubaccurra.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2550,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/accubaccurra.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Chromadra.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 839,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/chromadra.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Confractossis.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 405,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/confractossis.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Krähe,_Elster,_Rabe.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 111,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/krähe,_elster,_rabe.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Ambulia/Terrasiccaris.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 523,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/ambulia/terrasiccaris.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Folia/Multa_Gras.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/folia/multa_gras.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Folia/Wasserrosen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 52,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/folia/wasserrosen.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Pilea/Fulmeneques.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1780,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/pilea/fulmeneques.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Subtropen & Sumpfländereien/Subtropen_&_Sumpfländereien.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 713,
+      "exportedPath": "_welt/biome/subtropen-&-sumpfländereien/subtropen_&_sumpfländereien.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Taiga/Ambulia/Velatrox.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/taiga/ambulia/velatrox.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Taiga/Folia/Gelorium.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 80,
+      "exportedPath": "_welt/biome/taiga/folia/gelorium.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Taiga/Taiga.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 279,
+      "exportedPath": "_welt/biome/taiga/taiga.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Magnamaw.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 271169,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/magnamaw.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Magnamaw.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2461,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/magnamaw.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Noctululare.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 293030,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/noctululare.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Noctululare.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2350,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/noctululare.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/ambulia/noctululare.png",
+        "_welt/biome/tropischer_regenwald/ambulia/noctululare.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Nota.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 232483,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/nota.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Nota.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2566,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/nota.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/ambulia/nota.png",
+        "_welt/biome/tropischer_regenwald/ambulia/nota.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Striatudentis.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 300786,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/striatudentis.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Striatudentis.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3404,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/striatudentis.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/ambulia/striatudentis.png",
+        "_welt/biome/tropischer_regenwald/ambulia/striatudentis.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Visec.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 293737,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/visec.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Ambulia/Visec.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1919,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/visec.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/ambulia/visec.png",
+        "_welt/biome/tropischer_regenwald/ambulia/visec.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Appearange.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3466,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/appearange.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/folia/appearange.png",
+        "_welt/biome/tropischer_regenwald/folia/appearange.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Appearange.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 289141,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/appearange.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Ignistella.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 304810,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/ignistella.png",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Folia/Ignistella.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3056,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/ignistella.html",
+      "dependencies": [
+        "_welt/biome/tropischer_regenwald/folia/ignistella.png",
+        "_welt/biome/tropischer_regenwald/folia/ignistella.png"
+      ]
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Pilea/Mortovello.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1950,
+      "exportedPath": "_welt/biome/tropischer_regenwald/pilea/mortovello.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Tropischer_Regenwald/Tropischer_Regenwald.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 425,
+      "exportedPath": "_welt/biome/tropischer_regenwald/tropischer_regenwald.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Biome/Wüste/Ambulia/Respirafinalis.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2789,
+      "exportedPath": "_welt/biome/wüste/ambulia/respirafinalis.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Wüste/Ambulia/Rolli.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2999,
+      "exportedPath": "_welt/biome/wüste/ambulia/rolli.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Wüste/Folia/Salrubus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2621,
+      "exportedPath": "_welt/biome/wüste/folia/salrubus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Wüste/Folia/Ultimus.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2551,
+      "exportedPath": "_welt/biome/wüste/folia/ultimus.html",
+      "dependencies": []
+    },
+    "_Welt/Biome/Wüste/Wüste.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 604,
+      "exportedPath": "_welt/biome/wüste/wüste.html",
+      "dependencies": [
+        "lib/media/haeven_biomes.png",
+        "lib/media/haeven_biomes.png"
+      ]
+    },
+    "_Welt/Global_Information/Entdeckung_von_Chimerit.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3584,
+      "exportedPath": "_welt/global_information/entdeckung_von_chimerit.html",
+      "dependencies": []
+    },
+    "_Welt/Global_Information/Erster_Kontakt_mit_magischen_Pflanzen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 6679,
+      "exportedPath": "_welt/global_information/erster_kontakt_mit_magischen_pflanzen.html",
+      "dependencies": []
+    },
+    "_Welt/Global_Information/Havens_tektonischer_Aufbau.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 529,
+      "exportedPath": "_welt/global_information/havens_tektonischer_aufbau.html",
+      "dependencies": [
+        "lib/media/haven_stumm.png",
+        "lib/media/haven_stumm.png",
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Global_Information/Zeitachse.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 259,
+      "exportedPath": "_welt/global_information/zeitachse.html",
+      "dependencies": []
+    },
+    "_Welt/Global_Information/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1775,
+      "exportedPath": "_welt/global_information/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haeven_Biomes.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33200440,
+      "exportedPath": "_welt/haven_globus/haeven_biomes.png",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V0 - blank.wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 4536360,
+      "exportedPath": "_welt/haven_globus/haven-v0-blank.wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V1 - Biome frei Schnauze.wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 11683872,
+      "exportedPath": "_welt/haven_globus/haven-v1-biome-frei-schnauze.wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V2 - Biome Schritt für Schnitt.wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 8442625,
+      "exportedPath": "_welt/haven_globus/haven-v2-biome-schritt-für-schnitt.wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V3 - stumm.wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 16816414,
+      "exportedPath": "_welt/haven_globus/haven-v3-stumm.wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V4 - beschriftet.wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 16832282,
+      "exportedPath": "_welt/haven_globus/haven-v4-beschriftet.wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven V4 [en].wonderdraft_map": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 16832193,
+      "exportedPath": "_welt/haven_globus/haven-v4-[en].wonderdraft_map",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven_beschriftet.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33528240,
+      "exportedPath": "_welt/haven_globus/haven_beschriftet.png",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Haven_stumm.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33030705,
+      "exportedPath": "_welt/haven_globus/haven_stumm.png",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tectonic Map V0.jpg~": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1199711,
+      "exportedPath": "_welt/haven_globus/tectonic-map-v0.jpg~",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tectonic Map V0.kra": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 7350798,
+      "exportedPath": "_welt/haven_globus/tectonic-map-v0.kra",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tectonic Map V0.kra~": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3203093,
+      "exportedPath": "_welt/haven_globus/tectonic-map-v0.kra~",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tectonic Map V1.kra": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 7350798,
+      "exportedPath": "_welt/haven_globus/tectonic-map-v1.kra",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tectonic Map V1.kra~": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3203092,
+      "exportedPath": "_welt/haven_globus/tectonic-map-v1.kra~",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tektonische_Karte_V0.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2321578,
+      "exportedPath": "_welt/haven_globus/tektonische_karte_v0.png",
+      "dependencies": []
+    },
+    "_Welt/Haven_Globus/Tektonische_Karte_V1.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 4667817,
+      "exportedPath": "_welt/haven_globus/tektonische_karte_v1.png",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Dalris/POI/Arcademia_Belmore.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/dalris/poi/arcademia_belmore.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Dalris/POI/Criwether_Bergkessel.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/dalris/poi/criwether_bergkessel.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Dalris/POI/Shaeras.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/dalris/poi/shaeras.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Dalris/POI/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 68,
+      "exportedPath": "_welt/territorien/dalris/poi/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Dalris/Dalris.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 490,
+      "exportedPath": "_welt/territorien/dalris/dalris.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Egen/POI/Arcademia_Merarth.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/egen/poi/arcademia_merarth.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Egen/POI/Egen_(Hauptstadt).md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/egen/poi/egen_(hauptstadt).html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Egen/POI/Fastigaspina.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/egen/poi/fastigaspina.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Egen/POI/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 53,
+      "exportedPath": "_welt/territorien/egen/poi/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Egen/Egenythe_Domäne.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 43,
+      "exportedPath": "_welt/territorien/egen/egenythe_domäne.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Gromorea/POI/Arcademia_Fleagwarth.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/gromorea/poi/arcademia_fleagwarth.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/POI/Inadell.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/gromorea/poi/inadell.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/POI/Itumesa.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/gromorea/poi/itumesa.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/POI/Thurnfrost.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/gromorea/poi/thurnfrost.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/POI/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 93,
+      "exportedPath": "_welt/territorien/gromorea/poi/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/POI/Zwillingsspitze.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/gromorea/poi/zwillingsspitze.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Gromorea/Gromorea.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 845,
+      "exportedPath": "_welt/territorien/gromorea/gromorea.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Kajiatare/POI/Amniris.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/kajiatare/poi/amniris.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Kajiatare/Kajiatare.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 43,
+      "exportedPath": "_welt/territorien/kajiatare/kajiatare.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Masurin/POI/Arcademia_Slessany.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/masurin/poi/arcademia_slessany.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Masurin/POI/Fastigaspina.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 89,
+      "exportedPath": "_welt/territorien/masurin/poi/fastigaspina.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Masurin/POI/Yuntis.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/masurin/poi/yuntis.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Masurin/POI/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 43,
+      "exportedPath": "_welt/territorien/masurin/poi/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Masurin/Masurin.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 53,
+      "exportedPath": "_welt/territorien/masurin/masurin.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Thaetia/POI/Arcademia_Armenárde.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/arcademia_armenárde.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Pluvimesa_(ost).md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/pluvimesa_(ost).html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Pluvimesa_(west).md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/pluvimesa_(west).html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Profusteri.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/profusteri.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Quinnboc.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/quinnboc.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Xephis.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/xephis.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Yarborgsee.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "_welt/territorien/thaetia/poi/yarborgsee.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/POI/Zentrales_Direktorat.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 46,
+      "exportedPath": "_welt/territorien/thaetia/poi/zentrales_direktorat.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/Thaetia.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 8681,
+      "exportedPath": "_welt/territorien/thaetia/thaetia.html",
+      "dependencies": [
+        "lib/media/haven_beschriftet.png",
+        "lib/media/haven_beschriftet.png"
+      ]
+    },
+    "_Welt/Territorien/Thaetia/Thaetianische_Erzählung_über_die_Entstehung_der_Welt.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2163,
+      "exportedPath": "_welt/territorien/thaetia/thaetianische_erzählung_über_die_entstehung_der_welt.html",
+      "dependencies": []
+    },
+    "_Welt/Territorien/Thaetia/Traditionelle_Theologie.canvas": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1707,
+      "exportedPath": "_welt/territorien/thaetia/traditionelle_theologie.html",
+      "dependencies": []
+    },
+    "_Welt/Der_Planet_Haven.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 8264,
+      "exportedPath": "_welt/der_planet_haven.html",
+      "dependencies": [
+        "_welt/haven_globus/tektonische_karte_v0.png",
+        "_welt/haven_globus/tektonische_karte_v0.png",
+        "_welt/haven_globus/haeven_biomes.png",
+        "_welt/haven_globus/haeven_biomes.png",
+        "_welt/haven_globus/haven_stumm.png",
+        "_welt/haven_globus/haven_stumm.png",
+        "_welt/haven_globus/haven_beschriftet.png",
+        "_welt/haven_globus/haven_beschriftet.png"
+      ]
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Orte/0._Arcademia_Armenárde.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/orte/0._arcademia_armenárde.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Sessions/0.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 3818,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/sessions/0.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Sessions/1.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 145,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/sessions/1.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Transiente_Charaktere/Vulpor_'Don'_Gwolum.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/transiente_charaktere/vulpor_'don'_gwolum.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Orte.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/orte.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Persistente_Charaktere.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/persistente_charaktere.html",
+      "dependencies": []
+    },
+    "Abenteuer/Der_Putsch_in_Quinnboc/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2434,
+      "exportedPath": "abenteuer/der_putsch_in_quinnboc/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/0._Das_Anwesen/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/mr_armenárde/orte/0._das_anwesen/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/1._Antikas_-_Dalris/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/mr_armenárde/orte/1._antikas_-_dalris/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/2._Folia_Galoria_-_Kajiatare/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/mr_armenárde/orte/2._folia_galoria_-_kajiatare/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/3._Avisbay_-_Inadell/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 635,
+      "exportedPath": "abenteuer/mr_armenárde/orte/3._avisbay_-_inadell/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/4._Frostwüste_-_Egen/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/mr_armenárde/orte/4._frostwüste_-_egen/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/5._Feuersturm_-_Thurnfrost/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 0,
+      "exportedPath": "abenteuer/mr_armenárde/orte/5._feuersturm_-_thurnfrost/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Orte/6._Voidstar_-_Mazurine_Marine/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2,
+      "exportedPath": "abenteuer/mr_armenárde/orte/6._voidstar_-_mazurine_marine/zusammenfassung.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Personen/Transiente_Charaktere/Ghyro_PC.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 461,
+      "exportedPath": "abenteuer/mr_armenárde/personen/transiente_charaktere/ghyro_pc.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Ideen.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 268,
+      "exportedPath": "abenteuer/mr_armenárde/ideen.html",
+      "dependencies": []
+    },
+    "Abenteuer/Mr_Armenárde/Zusammenfassung.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1678,
+      "exportedPath": "abenteuer/mr_armenárde/zusammenfassung.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1546,
+      "exportedPath": "readme.html",
+      "dependencies": []
+    },
+    "lib/media/haeven_biomes.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33200440,
+      "exportedPath": "lib/media/haeven_biomes.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/ambulia/noctululare.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 293030,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/noctululare.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/ambulia/nota.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 232483,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/nota.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/ambulia/striatudentis.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 300786,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/striatudentis.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/ambulia/visec.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 293737,
+      "exportedPath": "_welt/biome/tropischer_regenwald/ambulia/visec.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/folia/appearange.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 289141,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/appearange.png",
+      "dependencies": []
+    },
+    "_welt/biome/tropischer_regenwald/folia/ignistella.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 304810,
+      "exportedPath": "_welt/biome/tropischer_regenwald/folia/ignistella.png",
+      "dependencies": []
+    },
+    "lib/media/haven_stumm.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33030705,
+      "exportedPath": "lib/media/haven_stumm.png",
+      "dependencies": []
+    },
+    "lib/media/haven_beschriftet.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33528240,
+      "exportedPath": "lib/media/haven_beschriftet.png",
+      "dependencies": []
+    },
+    "_welt/haven_globus/tektonische_karte_v0.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2321578,
+      "exportedPath": "_welt/haven_globus/tektonische_karte_v0.png",
+      "dependencies": []
+    },
+    "_welt/haven_globus/haeven_biomes.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33200440,
+      "exportedPath": "_welt/haven_globus/haeven_biomes.png",
+      "dependencies": []
+    },
+    "_welt/haven_globus/haven_stumm.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33030705,
+      "exportedPath": "_welt/haven_globus/haven_stumm.png",
+      "dependencies": []
+    },
+    "_welt/haven_globus/haven_beschriftet.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 33528240,
+      "exportedPath": "_welt/haven_globus/haven_beschriftet.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 193077,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 12982,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 2153,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1722334875588,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
